@@ -153,7 +153,7 @@ IF l_a = l_b THEN
 ELSE
 	//Messagebox('not null','test')
 END IF
-//<<<<<<< .mine123456
+//<<<<<<< .mine1
 //35
 //||||||| .r1340
 
