@@ -153,7 +153,11 @@ IF l_a = l_b THEN
 ELSE
 	//Messagebox('not null','test')
 END IF
+//<<<<<<< HEAD
 //<<<<<<< .mine145
+//=======
+//<<<<<<< .mine123
+//>>>>>>> master
 //35
 //||||||| .r1340
 
